@@ -15,3 +15,6 @@ install vim
 install tmux
 install neofetch
 install lolcat
+install htop
+install git
+install tree

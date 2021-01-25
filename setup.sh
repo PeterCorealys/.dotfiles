@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd..
+cd ..
 
 dotfilesDir=$(pwd)
 
@@ -30,11 +30,5 @@ function linkDotfile {
 
 linkDotfile .vim
 linkDotfile .vimrc
-"
-linkDotfile .bashrc
-linkDotfile .tmux.conf\
-"
-mkdir -p $dotfilesDir/.vim/bundle
-cd $dotfilesDir/.vim/bundle
-git clone git://github.com/VundleVim/Vundle.vim.git
-vim +PluginInstall +qall
+linkDotfile .tmux.conf
+"linkDotfile .bashrc"
