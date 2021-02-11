@@ -13,11 +13,12 @@ set noswapfile
 set smartcase
 set ignorecase
 set incsearch
-set termguicolors
+"set termguicolors
 set scrolloff=8
 set signcolumn=yes
 set colorcolumn=80
 set cmdheight=4
+set term=screen-256color
 "set syntax=on
 " LeaderKeyRemap
 let mapleader = " "
