@@ -18,7 +18,7 @@ set scrolloff=8
 set signcolumn=yes
 set colorcolumn=80
 set cmdheight=4
-
+"set syntax=on
 " LeaderKeyRemap
 let mapleader = " "
 
@@ -40,7 +40,7 @@ call plug#begin('~/.vim/plugged')
 
 " Declare the list of plugins.
 " Plug 'Name of the plug'
-Plug 'gruvbox-community/gruvbox'
+Plug 'flazz/vim-colorschemes'
 Plug 'preservim/nerdtree'
 Plug 'zxqfl/tabnine-vim'
 Plug 'frazrepo/vim-rainbow'
@@ -48,7 +48,7 @@ Plug 'itchyny/lightline.vim'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 
-colorscheme gruvbox
+colorscheme molokai
 " highlight Normal guibg=none
 
 " Nerdtree
