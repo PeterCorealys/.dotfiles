@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#cd ..
-
 dotfilesDir=$(pwd)
 
 function linkDotfile {
@@ -31,5 +29,4 @@ function linkDotfile {
 linkDotfile .vim
 linkDotfile .vimrc
 linkDotfile .tmux.conf
-linkDotfile .Xresources
-"linkDotfile .bashrc"
+linkDotfile .bashrc
