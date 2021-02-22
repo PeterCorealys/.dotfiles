@@ -30,3 +30,4 @@ linkDotfile .vim
 linkDotfile .vimrc
 linkDotfile .tmux.conf
 linkDotfile .bashrc
+linkDotfile .Xresources

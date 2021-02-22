@@ -26,5 +26,4 @@ install xterm
 install neofetch
 install lolcat
 install htop
-install gotop
 install tree
