@@ -15,15 +15,16 @@ install awesome
 install rofi
 install compton
 
-
 install vim
 install nvim
 install git
 
 install terminator 
 install tmux
+install xterm
 
 install neofetch
 install lolcat
 install htop
+install gotop
 install tree
