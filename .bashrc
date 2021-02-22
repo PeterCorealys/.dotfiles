@@ -363,3 +363,4 @@ unset bash_prompt
 
 
 ### EOF ###
+neofetch
