@@ -10,17 +10,20 @@ pcmanfm
 ranger
 
 ### Window manager & looks 
+@basex
 awesome
 comptom
 
 ### Programs 
+firefox
+nvim
 rofi
 
 ### terminal 
 terminator 
 tmux
 
-### fun
+### Fun
 neofetch 
 lolcat
 htop
