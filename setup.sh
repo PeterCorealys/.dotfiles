@@ -28,6 +28,8 @@ function linkDotfile {
 
 linkDotfile .vim
 linkDotfile .vimrc
+linkDotfile .nvim
 linkDotfile .tmux.conf
 linkDotfile .bashrc
 linkDotfile .Xresources
+linkDotfile .config

@@ -363,4 +363,5 @@ unset bash_prompt
 
 
 ### EOF ###
+tmux
 neofetch
