@@ -12,9 +12,16 @@ function install {
 }
 
 install vim
+install awesome
+install xorg
+install net-tools
+install terminator
+install rofi
 install tmux
 install neofetch
 install lolcat
 install htop
 install git
 install tree
+install pcmanfm
+install ranger
